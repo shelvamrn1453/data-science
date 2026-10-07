@@ -1,0 +1,21 @@
+ID_Transaksi,Warna_Tombol,Metode_Bayar,Waktu_Akses_Menit,Nominal_Transaksi
+1,Biru,E-Wallet,5.2,150000
+2,Hijau,Transfer Bank,12.5,250000
+3,Biru,Kartu Kredit,3.1,350000
+4,Hijau,E-Wallet,8.0,175000
+5,Biru,E-Wallet,4.5,120000
+6,Hijau,Kartu Kredit,15.2,400000
+7,Hijau,Transfer Bank,10.1,210000
+8,Biru,Transfer Bank,6.3,180000
+9,Biru,Kartu Kredit,7.5,300000
+10,Hijau,E-Wallet,9.2,160000
+11,Biru,E-Wallet,5.0,145000
+12,Hijau,Kartu Kredit,14.0,380000
+13,Biru,Transfer Bank,6.1,190000
+14,Hijau,Transfer Bank,11.5,230000
+15,Biru,Kartu Kredit,4.2,310000
+16,Hijau,E-Wallet,7.5,165000
+17,Biru,Transfer Bank,5.8,175000
+18,Hijau,Kartu Kredit,13.2,390000
+19,Biru,E-Wallet,4.0,130000
+20,Hijau,Transfer Bank,10.8,220000
